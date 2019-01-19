@@ -9,3 +9,8 @@ while AgeCompare >= 1:
     AgeCompare -= 1
 
 print("Done")
+
+if condition:
+    pass
+else:
+    pass
