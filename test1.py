@@ -10,7 +10,7 @@ while AgeCompare >= 1:
 
 print("Done")
 
-if condition:
+if True:
     pass
 else:
     pass
